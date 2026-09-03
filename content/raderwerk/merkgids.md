@@ -1,6 +1,6 @@
-# D14 — Merkgids Raderwerk
+D14 — Merkgids Raderwerk
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d14-merkgids-raderwerk-156278bea11e (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d14-merkgids-raderwerk-156278bea11e> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Merkgids Raderwerk
 

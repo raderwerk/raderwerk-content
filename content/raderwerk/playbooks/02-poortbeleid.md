@@ -1,6 +1,6 @@
-# D02 — Poortbeleid
+D02 — Poortbeleid
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d02-poortbeleid-d31ffbdf4c65 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d02-poortbeleid-d31ffbdf4c65> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Poortbeleid
 

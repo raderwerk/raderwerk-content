@@ -1,6 +1,6 @@
-# D05 — Kostenboek
+D05 — Kostenboek
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d05-kostenboek-1f19d9940f23 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d05-kostenboek-1f19d9940f23> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Kostenboek
 
@@ -8,7 +8,7 @@ Alleen de Finops-rol schrijft in dit document.
 
 ## Sectie 1 - koersen en aannames
 
-```
+```text
 wisselkoers: <1 EUR = x USD, met bron en datum>
 prijzen per MTok: fable-5.1 10/50 (cache-lees 0,25) · opus-5 5/25 · sonnet-5 2/10
 opmerking: dit zijn clientzijdige schattingen op lijstprijs, geen factuurgegevens
@@ -21,7 +21,7 @@ structureel incompleet. Dit hoort op de slotdia, niet in een voetnoot.
 
 Een regel per run, geparseerd uit de yaml-staartblokken.
 
-```
+```text
 | datum | issue | rol | model | beurten | in | uit | cache | usd | eur | duur | uitkomst |
 ```
 
@@ -29,7 +29,7 @@ Een regel per run, geparseerd uit de yaml-staartblokken.
 
 Ook als comment op WV-2.
 
-```
+```text
 <datum> · <n> runs · <n> issues aangeraakt
 kosten: $<x> / EUR <y>
 per rol: <verdeling in procenten>

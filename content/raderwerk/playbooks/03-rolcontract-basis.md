@@ -1,6 +1,6 @@
-# D03 — Rolcontract, basis
+D03 — Rolcontract, basis
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d03-rolcontract-basis-fd2bfdb5a134 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d03-rolcontract-basis-fd2bfdb5a134> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Rolcontract - basis
 

@@ -1,6 +1,6 @@
-# D07 — Issuebudget en opruimbeleid
+D07 — Issuebudget en opruimbeleid
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d07-issuebudget-en-opruimbeleid-0a99b309f8ed (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d07-issuebudget-en-opruimbeleid-0a99b309f8ed> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Issuebudget en opruimbeleid
 

@@ -1,6 +1,6 @@
-# D09 — AI-inzet en transparantie
+D09 — AI-inzet en transparantie
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d09-ai-inzet-en-transparantie-f304f28cfd1a (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d09-ai-inzet-en-transparantie-f304f28cfd1a> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # AI-inzet en transparantie
 

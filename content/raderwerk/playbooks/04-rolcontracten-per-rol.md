@@ -1,6 +1,6 @@
-# D04 — Rolcontracten per rol
+D04 — Rolcontracten per rol
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d04-rolcontracten-per-rol-24ef75040945 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d04-rolcontracten-per-rol-24ef75040945> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Rolcontracten per rol
 

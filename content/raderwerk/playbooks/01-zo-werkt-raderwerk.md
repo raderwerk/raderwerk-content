@@ -1,6 +1,6 @@
-# D01 — Zo werkt Raderwerk
+D01 — Zo werkt Raderwerk
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d01-zo-werkt-raderwerk-14cf226908dd (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d01-zo-werkt-raderwerk-14cf226908dd> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Zo werkt Raderwerk
 

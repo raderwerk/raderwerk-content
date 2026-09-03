@@ -1,6 +1,6 @@
-# D12 — Eerlijkheidsdocument
+D12 — Eerlijkheidsdocument
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d12-eerlijkheidsdocument-ee6833d1f01d (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d12-eerlijkheidsdocument-ee6833d1f01d> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Eerlijkheidsdocument
 

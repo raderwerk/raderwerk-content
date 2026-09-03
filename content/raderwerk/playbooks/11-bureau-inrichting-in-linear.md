@@ -1,6 +1,6 @@
-# D11 — Bureau-inrichting in Linear
+D11 — Bureau-inrichting in Linear
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d11-bureau-inrichting-in-linear-c698e5904c26 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d11-bureau-inrichting-in-linear-c698e5904c26> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Bureau-inrichting in Linear
 

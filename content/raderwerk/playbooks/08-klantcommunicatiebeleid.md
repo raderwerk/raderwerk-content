@@ -1,6 +1,6 @@
-# D08 — Klantcommunicatiebeleid
+D08 — Klantcommunicatiebeleid
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d08-klantcommunicatiebeleid-16de5b6994cf (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d08-klantcommunicatiebeleid-16de5b6994cf> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Klantcommunicatiebeleid
 

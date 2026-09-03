@@ -1,6 +1,6 @@
-# D16 — Klantdossier Kantelbeer
+D16 — Klantdossier Kantelbeer
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d16-klantdossier-kantelbeer-7f539d997464 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d16-klantdossier-kantelbeer-7f539d997464> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Klantdossier Kantelbeer
 

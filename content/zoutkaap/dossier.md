@@ -1,6 +1,6 @@
-# D15 — Klantdossier Zoutkaap
+D15 — Klantdossier Zoutkaap
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d15-klantdossier-zoutkaap-13ea31b3aff9 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d15-klantdossier-zoutkaap-13ea31b3aff9> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Klantdossier Zoutkaap
 

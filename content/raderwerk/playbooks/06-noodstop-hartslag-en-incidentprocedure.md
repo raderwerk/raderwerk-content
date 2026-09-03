@@ -1,6 +1,6 @@
-# D06 — Noodstop, hartslag en incidentprocedure
+D06 — Noodstop, hartslag en incidentprocedure
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d06-noodstop-hartslag-en-incidentprocedure-73c65f6bad69 (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d06-noodstop-hartslag-en-incidentprocedure-73c65f6bad69> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Noodstop, hartslag en incidentprocedure
 

@@ -1,6 +1,6 @@
-# D17 — Klantdossier Spoorlinde
+D17 — Klantdossier Spoorlinde
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d17-klantdossier-spoorlinde-5d6be631690a (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d17-klantdossier-spoorlinde-5d6be631690a> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Klantdossier Spoorlinde
 

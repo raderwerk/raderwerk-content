@@ -1,6 +1,6 @@
-# D10 — Definition of Done per dienstlijn
+D10 — Definition of Done per dienstlijn
 
-> Bron: Linear-document https://linear.app/fightclub-techhub/document/d10-definition-of-done-per-dienstlijn-eb93ec396c0a (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
+> Bron: Linear-document <https://linear.app/fightclub-techhub/document/d10-definition-of-done-per-dienstlijn-eb93ec396c0a> (geëxporteerd door de Spil op 2026-09-03). Wijzig in Linear, niet hier.
 
 # Definition of Done per dienstlijn
 
